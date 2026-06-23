@@ -1,5 +1,4 @@
 # Echolocation-Based-Tunnel-Mapping-Device
-# (In Progress)
 
 This project is an echolocation-based tunnel mapping device developed as a coursework project for Fundamentals of Linear Systems. The goal of the system is to use high-frequency acoustic signals to detect nearby surfaces, estimate distances, and generate a two-dimensional map of a tunnel-like environment.
 
